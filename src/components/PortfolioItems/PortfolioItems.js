@@ -27,12 +27,12 @@ export class PortfolioItems extends Component {
                 <div className="item-container">
                   <Row>
                     
-                    <PortfolioItem src={image2} />
+                    <PortfolioItem src={image2}/>
 
                     <PortfolioItem src={image2} />
 
-                    <PortfolioItem src={image2} />
-                    <PortfolioItem src={image2} />
+                    <PortfolioItem src={image2}  />
+                    <PortfolioItem  src={image2} />
                     <PortfolioItem src={image2} />
                     <PortfolioItem src={image2} />
 
